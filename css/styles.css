@@ -189,5 +189,9 @@ hr {
   #profile {
   width: 250px;
   }
+
+  .skill-row {
+  width: 85%;
+  }
   
 }
